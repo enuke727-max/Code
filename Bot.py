@@ -312,4 +312,4 @@ async def help_command(interaction: discord.Interaction):
 
 # ------------------ Run Bot ------------------
 
-bot.run("MTQxMDMyOTQ4Njc2Mjk3MTE1Ng.GfhIIV.DgYwLhLArbGAIyHwlSjW2q2UEq3TAuT3NA4qak")
+bot.run("DISCORD_TOKEN")
